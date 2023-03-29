@@ -85,7 +85,11 @@
 
     git diff <hash1> <hash2>
 
+## Перемещение к commit-у
 
+Чтобы переместиться к выбрануму commit-у используется:
+
+    git checkout <hash>
 
 
 
