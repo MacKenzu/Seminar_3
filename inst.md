@@ -97,6 +97,6 @@
     git checkout <branchname>
 
     
-
+![Git emblem](img\GIT.png)
 
 
